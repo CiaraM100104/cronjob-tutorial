@@ -39,6 +39,7 @@ import (
 
 	batchv1 "tutorial.kubebuilder.io/project/api/v1"
 	"tutorial.kubebuilder.io/project/internal/controller"
+
 	// +kubebuilder:scaffold:imports
 )
 
