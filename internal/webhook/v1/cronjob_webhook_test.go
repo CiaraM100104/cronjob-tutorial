@@ -19,7 +19,6 @@ package v1
 import (
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
-
 	batchv1 "tutorial.kubebuilder.io/project/api/v1"
 	// TODO (user): Add any additional imports if needed
 )
